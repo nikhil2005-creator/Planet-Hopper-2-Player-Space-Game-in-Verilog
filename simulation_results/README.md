@@ -4,7 +4,8 @@ The screenshots are arranged in the following order.
 
 ## 1. Simulation Commands
 
-![Simulation commands](simulation_commands.png)
+![Simulation commands](<img width="833" height="372" alt="cmd" src="https://github.com/user-attachments/assets/7669c457-58df-4eaa-8781-db624d3f2335" />
+)
 
 ## 2. Terminal Output
 
