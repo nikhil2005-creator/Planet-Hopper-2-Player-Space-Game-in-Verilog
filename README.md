@@ -102,3 +102,17 @@ else                           -> winner_ID = 3   // tie
 ### 6. Input assumptions
 - `pos1` and `pos2` are always in the range 0–4, and they stay stable while the game runs.
 - Behaviour for codes 5–7 is undefined and doesn't need to be handled.
+---
+
+## Results
+
+All 4 test cases pass with a final score of **10.00 / 10.00**.
+
+### Commands used
+![Commands](simulation_results/cmd.png)
+
+### Terminal output
+![Terminal output](simulation_results/terminal_output.png)
+
+### GTKWave waveform
+![GTKWave waveform](simulation_results/gtkwave_output.png)
